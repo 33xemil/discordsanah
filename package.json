@@ -4,9 +4,9 @@
   "description": "Discord Bot Clock",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js",
-    "dev:watch": "nodemon index.js",
-    "start": "node index.js",
+    "dev": "node src/index.js",
+    "dev:watch": "nodemon src/index.js",
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
